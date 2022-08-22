@@ -1,0 +1,7 @@
+pytz
+pydantic[dotenv]
+faust-streaming
+python-schema-registry-client[faust]
+psycopg2
+sqlalchemy
+pyyaml

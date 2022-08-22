@@ -1,0 +1,7 @@
+version: "3.9"
+services:
+  mt5_events_worker:
+    build: .
+    restart: "no"
+    env_file:
+      - .env
